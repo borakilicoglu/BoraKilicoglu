@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-BORA KILICOGLU
+### BORA KILICOGLU
 Bora enjoys developing, solving problems and helping make the internet a more beautiful, accessible, and functional place.
 
 ## &#x1f4c8; GitHub Stats
