@@ -1,14 +1,3 @@
-
-<h3 align="center">👋🏽 hey, I'm Bora.</h3>
-
----
-
-I am working as a Front End Developer in Istanbul.
-
-- 🏗 I work with React/React Native mostly.
-
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bora Kilicoglu
 =====================================================================================================================================
 
@@ -43,7 +32,7 @@ Bora is a Frontend | React | JavaScript Developer...
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/jamesqquick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://jamesqquick.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jamesqquick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://github.com/borakilicoglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/bora-k%C4%B1l%C4%B1%C3%A7o%C4%9Flu-241669244/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
 
