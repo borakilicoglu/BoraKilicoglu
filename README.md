@@ -32,7 +32,8 @@ Bora is a Frontend | React | JavaScript Developer...
 
 ### Socials
 
-<p align="left"> <a href="https://github.com/borakilicoglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/bora-k%C4%B1l%C4%B1%C3%A7o%C4%9Flu-241669244/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://github.com/borakilicoglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/bora-k%C4%B1l%C4%B1%C3%A7o%C4%9Flu-241669244/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
 
