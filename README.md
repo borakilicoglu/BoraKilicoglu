@@ -1,12 +1,27 @@
-<p align="center">
-  <img src="https://github.com/borakilicoglu/BoraKilicoglu/blob/main/output-onlinegiftools.gif">
-</p>
+# 👋 Hey there! I'm Bora Kilicoglu  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bora-kilicoglu" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@borakilicoglu" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
-  </a>
-</p>
+🚀 Developer | 💡 AI Enthusiast | 🎵 Electronic Music Lover | 🌿 Nature Explorer | 🤖 JavaScript & Typescript
+
+## 🏗️ What I Build  
+💻 **Frontend**: Next.js, React, TypeScript, Tailwind CSS  
+🛠️ **Backend**: Node.js, NestJS, Prisma, PostgreSQL, Phoenix (Elixir), Rails  
+🔧 **Tools & Tech**: Redux, RTK Query, Alpine.js, Zod, React Hook Form, Ant Design  
+🚀 **Deployment**: Render.com, Netlify, Bun.js  
+
+## 🚀 What I'm Up To  
+🔹 Crafting **modular, scalable** web applications  
+🔹 Experimenting with **AI-powered** projects  
+🔹 Tinkering with **real-time apps** and **backend optimizations**  
+🔹 Automating workflows & improving DX  
+
+## 💡 Things I Enjoy  
+🎧 **Electronic beats** on repeat  
+🌲 **Nature walks** to clear my mind  
+🧠 **Problem-solving** with a touch of sarcasm 😎  
+
+## 📬 Let's Connect!  
+🛠️ **Tech Blog/Portfolio**: https://medium.com/@borakilicoglu(#)  
+💬 **LinkedIn**: https://www.linkedin.com/in/bora-kilicoglu(#)  
+🐦 **Twitter/X**: [@yourhandle](#)  
+
+🚀 _“Code smart, ship fast, and take breaks.”_  
